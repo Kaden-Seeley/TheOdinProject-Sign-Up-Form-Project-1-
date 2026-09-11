@@ -1,4 +1,6 @@
-# TheOdinProject-Sign-Up-Form-Project-1-
+# Sign-Up-Form
+
+**Project 1**
 
 <img width="1087" height="886" alt="image" src="https://github.com/user-attachments/assets/aa0d5d94-1e04-49c1-b0f0-eeb095ab29bb" />
 
